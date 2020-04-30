@@ -1,0 +1,2 @@
+nodemon chris.js
+pause
